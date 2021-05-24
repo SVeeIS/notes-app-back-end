@@ -1,4 +1,4 @@
-# Noted App back end*
+# Noted App back end
 
 ## 📌How to use
 
