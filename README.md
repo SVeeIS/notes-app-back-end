@@ -5,8 +5,8 @@
 **Clone this repository by running the following command:**
 
 ```bash
-git clone https://github.com/SVeeIS/noted-app-back-and.git
-cd noted-app-back-and
+git clone https://github.com/SVeeIS/noted-app-back-end.git
+cd noted-app-back-end
 ```
 
 
