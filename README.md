@@ -19,5 +19,5 @@ npm install
 **Run server by running the following command:**
 
 ```bash
-npm start-dev run
+npm run start-dev
 ```
