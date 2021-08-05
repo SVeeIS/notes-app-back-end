@@ -5,10 +5,9 @@
 **Clone this repository by running the following command:**
 
 ```bash
-git clone https://github.com/vionaaindah/noted-app-back-end.git
-cd noted-app-back-end
+git clone https://github.com/vionaaindah/notes-app-back-end.git
+cd notes-app-back-end
 ```
-
 
 **Install all module by running the following command:**
 
