@@ -17,7 +17,7 @@ const init = async () => {
       },
     },
   });
- 
+
   await server.register({
     plugin: notes,
     options: {
@@ -25,9 +25,9 @@ const init = async () => {
       validator: NotesValidator,
     },
   });
- 
+
   await server.start();
   console.log(`Server berjalan pada ${server.info.uri}`);
 };
- 
+
 init();
